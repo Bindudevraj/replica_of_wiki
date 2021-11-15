@@ -49,6 +49,8 @@ table, th, td {
     border: 1px solid white;
     border-collapse: collapse;
     table-layout: fixed;
+    width:95%;
+    height:25px;
 }
 h4{
     display: inline-block;
@@ -65,7 +67,7 @@ h4{
 }
 .content{
     background-color: #141414;
-    height: 1960px;
+    height: 2800px;
     width: 1350px;
 }
 .head-bar{
@@ -94,5 +96,3 @@ li::before{
     padding:30px;
     height: 50px;
 }
-
-
